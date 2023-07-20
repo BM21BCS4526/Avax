@@ -1,4 +1,4 @@
-** Deploying smart contract on Avalanche Network for Degen Gaming**
+**Degen Gaming**
 In this project, we are creating a smart contract for Degen gamin using solidity language and deploying it on the avalanche network.
 
 **Description**
