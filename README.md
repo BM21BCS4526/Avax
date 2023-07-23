@@ -1,13 +1,18 @@
 **Degen Gaming**
-In this project, we are creating a smart contract for Degen gamin using solidity language and deploying it on the avalanche network.
+
+In this project, we are creating a smart contract for Degen gaming using solidity language and deploying it on the avalanche network.
 
 **Description**
+
 we have created an ERC20 token on the Avalanche network, allowing players to mint, transfer, redeem, check token balance, and burn their own tokens.
 The smart contract has various functionality, including in-game store items redemption, checking balance, and burning tokens.
 
 **Getting Started**
+
 **Executing program**
+
 This code can be compiled and deployed using Remix.
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
